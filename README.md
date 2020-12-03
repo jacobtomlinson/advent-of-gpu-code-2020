@@ -31,6 +31,8 @@ machines to carry out data science workloads and then giving users visibility in
 
 I am originally from a sysadmin background and am not a data scientist. Therefore doing the Advent of Code in Python on the GPU is a way for me to level up my GPU coding skills and bring you all along for the ride.
 
+One of the Numba devs [Graham Markall](https://twitter.com/gmarkall) is also solving Advent of Code on the GPU, so check out [his solutions](https://github.com/gmarkall/advent-of-numba). He actually knows what he is doing!
+
 #### What kind of GPU are you using?
 
 I generally SSH to a machine with a pair of NVIDIA Quadro RTX 8000s. I also have a laptop with an NVIDIA GeForce GTX 1050.
