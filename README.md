@@ -49,6 +49,26 @@ I also do not have a formal computer science education, so I find things like Ad
 
 If you want to give me pointers and tips in the live stream chat then please do!
 
+#### Can everything be done on the GPU?
+
+Not all problems map onto something that can run in parallel, therefore I am not expecting to solve every challenge on the GPU. Instead I am aiming to do *as much as possible* on the GPU. Code that can be parallelised on the GPU will be faster than it's CPU counterpart.
+
+Here's a table of how often something could be parallelised on the GPU.
+
+| Day | Part 1 | Part 2 |
+| --- | ------ | ------ |
+| 01 | ✅ | ✅ |
+| 02 | ✅ | ✅ |
+| 03 | ✅ | ✅ |
+| 04 | ✅ | ✅ |
+| 05 | ✅ | Potentially |
+| 06 | ✅ | ✅ |
+| 07 | ❌ | ❌ |
+| 08 | ❌ | ✅ |
+| 09 | ✅ | ✅ |
+| 10 | ✅ | ❌ |
+
+
 ### Technical
 
 #### Which Python libraries are you using?
